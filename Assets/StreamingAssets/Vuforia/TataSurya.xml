@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="bulan_clean" size="1.000000 0.500000" />
+    <ImageTarget name="solar_systemtarget" size="1.000000 0.560811" />
+    <ImageTarget name="bumi_burem" size="1.000000 0.485470" />
+    <ImageTarget name="bulan_jelas" size="1.000000 0.500000" />
+    <ImageTarget name="matahari_jelas" size="1.000000 0.500000" />
+    <ImageTarget name="matahari_burem" size="1.000000 0.490501" />
+    <ImageTarget name="bumi_jelas" size="1.000000 0.500000" />
+    <ImageTarget name="bulan_burem" size="1.000000 0.495726" />
+  </Tracking>
+</QCARConfig>
