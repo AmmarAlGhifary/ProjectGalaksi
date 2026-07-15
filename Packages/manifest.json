@@ -1,6 +1,15 @@
 {
-    "dependencies": {
-    "com.ptc.vuforia.engine": "file:com.ptc.vuforia.engine-11.4.4.tgz",
+  "scopedRegistries": [
+    {
+      "name": "Vuforia",
+      "url": "https://registry.packages.developer.vuforia.com/",
+      "scopes": [
+        "com.ptc.vuforia.engine"
+      ]
+    }
+  ],
+  "dependencies": {
+    "com.ptc.vuforia.engine": "11.4.4",
     "com.unity.ai.assistant": "2.14.0-pre.1",
     "com.unity.ai.inference": "2.6.1",
     "com.unity.ai.navigation": "2.0.13",
